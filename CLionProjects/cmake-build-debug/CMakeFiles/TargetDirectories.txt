@@ -1,0 +1,3 @@
+C:/Users/rajbh/OneDrive/Desktop/3rd sem/CLionProjects/cmake-build-debug/CMakeFiles/CLionProjects.dir
+C:/Users/rajbh/OneDrive/Desktop/3rd sem/CLionProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rajbh/OneDrive/Desktop/3rd sem/CLionProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
