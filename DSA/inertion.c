@@ -2,8 +2,8 @@
 int main()
 {
     int n[] = {8, 6, 2, 10, 1, 11};
-    int arr = sizeof(n) / sizeof(n[0]);
-    for (int i = 0; i < arr; i++)
+    int arrlen = sizeof(n) / sizeof(n[0]);
+    for (int i = 0; i < arrlen; i++)
     {
         int key = n[i];
         int j = i - 1;
@@ -14,7 +14,7 @@ int main()
         }
         n[j + 1] = key;
     }
-    for (int i = 0; i < arr; i++)
+    for (int i = 0; i < arrlen; i++)
     {
         printf("%d ", n[i]);
     }
