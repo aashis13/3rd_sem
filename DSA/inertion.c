@@ -3,7 +3,7 @@ int main()
 {
     int n[] = {8, 6, 2, 10, 1, 11};
     int arrlen = sizeof(n) / sizeof(n[0]);
-    for (int i = 0; i < arrlen; i++)
+    for (int i = 1; i < arrlen; i++)
     {
         int key = n[i];
         int j = i - 1;
